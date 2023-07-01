@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="images">
+    <file>date_converter_icon.png</file>
+  </qresource>
+</RCC>
